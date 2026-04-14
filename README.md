@@ -26,5 +26,5 @@ The system utilizes a cyclic graph state machine where specialized AI agents col
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/P4hadi/langgraph-squad.git](https://github.com/YOUR-USERNAME/langgraph-squad.git)
+   git clone [https://github.com/P4hadi/langgraph-squad.git](https://github.com/P4hadi/langgraph-squad.git)
    cd langgraph-squad
